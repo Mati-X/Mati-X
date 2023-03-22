@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
+
 - 🔭 I’m currently working on [Matify](https://github.com/Mati-X/matify)
 
 - 🌱 I’m currently learning **Next.js, React, JavaScript**
