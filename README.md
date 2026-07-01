@@ -21,9 +21,3 @@ A fast-paced couch and online co-op party game where players must survive a glit
 
 * **Status:** Pre-production / Prototyping Netcode foundations.
 * **Tech Highlights:** Invite-only P2P network architecture, modular state-machine workstations, and dynamic environment transformations via custom shaders.
-
----
-
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mati-X&layout=compact&theme=radical)
