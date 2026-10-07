@@ -1,23 +1,34 @@
 # Hi, I'm Mati-X 👋
 
-I'm a Solo Full-Stack & Game Developer focused on building clean, modular systems and high-energy multiplayer experiences. 
+I'm a Solo Full-Stack & Game Developer focused on building clean, low-dependency architectures, cross-platform apps, and deep systemic game simulations.
 
-Right now, I'm fully locked into developing **Out of Office (O.O.O.)**—a chaotic, physics-driven co-op party game built in Unity.
+Right now, I'm actively developing **[DAEDALUS-07](https://github.com/Mati-X/DAEDALUS-07)** alongside **[Lesson Planner (Plan Lekcji PK)](https://lesson-planner-tau.vercel.app) **.
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-* **Full-Stack:** React, Next.js, Node.js, TypeScript, Python.
-* **Game Dev:** Unity (C#, URP, Netcode / Fish-Net, Shader Graph).
-* **Architecture:** State-driven gameplay, modular workflows, and optimized P2P networking.
+* **Game Dev & Low-Level:** C# / .NET, custom game loops & engine architecture, SadConsole.
+* **Full-Stack & Mobile:** React, Next.js, React Native / Expo, Node.js, TypeScript, Tailwind CSS, Zustand.
+* **Architecture & Philosophy:** From-scratch systemic design, minimal third-party dependencies, monorepo workflows (Turborepo), and automated CI/CD pipelines.
 
 ---
 
-## 🕹️ Current Project Under Development
+## 🕹️ Current Projects Under Development
 
-### **Out of Office (O.O.O.)**
-A fast-paced couch and online co-op party game where players must survive a glitching corporate training simulation managed by an obsessed AI.
+### 1. **[DAEDALUS-07](https://github.com/Mati-X/DAEDALUS-07)**
+A terminal-based sci-fi simulation game built entirely in pure C# (.NET), powered solely by SadConsole for rendering.
 
-* **Status:** Pre-production / Prototyping Netcode foundations.
-* **Tech Highlights:** Invite-only P2P network architecture, modular state-machine workstations, and dynamic environment transformations via custom shaders.
+* **Domain:** Game Development & Systems Architecture (C# / .NET, SadConsole).
+* **Architecture Highlights:**
+  * **Zero External Dependencies:** Built entirely from the ground up without third-party frameworks—custom simulation loop, state management, and entity systems.
+  * **Terminal Aesthetics:** Low-level ASCII/ANSI rendering driven by SadConsole, focusing on complex systemic gameplay, terminal ergonomics, and procedural mechanics.
+
+### 2. **Lesson Planner (Plan Lekcji PK)** · [Web App](https://lesson-planner-tau.vercel.app) · [Releases](https://github.com/Mati-X/plan-lekcji-releases)
+A modern, multiplatform schedule planner tailored for university students (web + Android app).
+
+* **Domain:** Full-Stack & Mobile (Next.js, React Native / Expo, TypeScript).
+* **Tech Highlights:**
+  * **Automated Feedback Pipeline:** Built-in in-app reporting hub with validation, automatic categorization, and webhook dispatch.
+  * **Semi-Automated Release Distribution:** Direct web delivery system that monitors, fetches, and serves the latest production APK builds via GitHub Releases API.
+  * **Architecture & Sync:** Monorepo setup, offline-first caching, live schedule scraping, and dynamic iCal calendar synchronization.
