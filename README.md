@@ -3,7 +3,7 @@
 I'm a Solo Full-Stack & Game Developer focused on building clean, low-dependency architectures, cross-platform apps, and deep systemic game simulations.
 
 Right now, I'm actively developing **[DAEDALUS-07](https://github.com/Mati-X/DAEDALUS-07)** alongside **[Lesson Planner (Plan Lekcji PK)](https://lesson-planner-tau.vercel.app) **.
-
+ 
 ---
 
 ## 🛠️ Tech Stack & Skills
